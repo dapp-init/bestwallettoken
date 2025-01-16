@@ -104,7 +104,7 @@ export default function Home() {
         </p>
         <button
           onClick={handleClick}
-          className="bg-[#f578bb] text-white text-xl px-16 py-2 rounded-3xl hover:bg-white"
+          className="bg-[#f578bb] text-white text-xl px-16 py-2 rounded-3xl"
         >
           Learn More
         </button>
